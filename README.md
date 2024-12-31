@@ -1,4 +1,4 @@
 # Simple Translator
 
 # Screenshot 
-![Screenshot](img/4)
+![Screenshot](img/4.png)
